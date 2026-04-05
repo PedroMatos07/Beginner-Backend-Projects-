@@ -1,30 +1,39 @@
-# Beginner-Backend-Projects-
+# 🚀 Backend Studies
 
+## 📌 About
 
+This repository documents my learning journey in Backend Development.  
+My main goal is to **become a skilled backend developer**, building robust, efficient, and scalable systems.
 
-\# 🚀 Estudos de Backend
+## 🎯 Goal
 
+I use this space to practice and apply concepts such as:
 
+- Server-side logic  
+- System architecture  
+- Clean code and best practices  
+- Scalable application design  
 
-Este repositório documenta a minha jornada de aprendizado e evolução. Meu objetivo principal é me \*\*especializar no desenvolvimento Backend\*\*, construindo sistemas sólidos, eficientes e escaláveis.
+## 🛠️ Technologies
 
+- **Language:** Java  
+- **Version Control:** Git & GitHub  
 
+## 📚 What I'm Learning
 
-\## 🎯 Objetivo
+- Backend fundamentals  
+- REST APIs  
+- Database integration  
+- Object-Oriented Programming (OOP)  
+- Design patterns  
 
-Utilizo este espaço para aplicar conceitos de lógica de servidor, arquitetura de sistemas e boas práticas de programação, focando na excelência técnica voltada ao ecossistema Backend.
+## 🚀 Future Improvements
 
+- Add real-world projects  
+- Implement authentication and authorization  
+- Work with frameworks like Spring Boot  
+- Improve testing and documentation  
 
+---
 
-\## 🛠️ Tecnologias
-
-\- \*\*Linguagem:\*\* Java
-
-\- \*\*Controle de Versão:\*\* Git / GitHub
-
-
-
-\---
-
-💡 \*Focado em aprender e aplicar as melhores práticas do mundo Backend.\*
-
+💡 *Focused on continuous learning and applying best practices in Backend Development.*
